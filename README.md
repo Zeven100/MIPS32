@@ -37,5 +37,5 @@ The processor is verified using a testbench that simulates the execution of a se
 ├── pipe_MIPS32.v        # Verilog module implementing the MIPS32 processor
 ├── tb.v                 # Testbench for verifying the processor
 ├── README.md            # Project documentation
-├── mips.vcd             # Waveform file (output from simulation)
-└── Makefile             # Optional: Automate compilation and simulation
+└── mips.vcd             # Waveform file (output from simulation)
+
